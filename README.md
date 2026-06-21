@@ -19,9 +19,14 @@ Created charts and visual summaries to communicate data insights.
 - Visualized trends and distributions across datasets
 
 ### 3. Exploratory Data Analysis (EDA)
-Performed EDA on structured datasets to uncover patterns and trends.
+Performed exploratory data analysis on structured datasets to uncover
+patterns and trends to support business requirements and decision making.
 - Summarized data using descriptive statistics
 - Identified key variables for dashboard reporting
+
+## 🔗 Related Projects
+- [Power BI Dashboards](https://github.com/honestjey/power-bi-dashboards)
+- [SQL Projects](https://github.com/honestjey/sql-projects)
 
 ## 📌 Notes
 Full scripts and notebooks coming soon as projects are finalized.
