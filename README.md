@@ -25,8 +25,8 @@ patterns and trends to support business requirements and decision making.
 - Identified key variables for dashboard reporting
 
 ## 🔗 Related Projects
-- [Power BI Dashboards](https://github.com/honestjey/power-bi-dashboards)
-- [SQL Projects](https://github.com/honestjey/sql-projects)
+- [Power BI Dashboards](https://github.com/mibrah03/power-bi-dashboards)
+- [SQL Projects](https://github.com/mibrah03/sql-projects)
 
 ## 📌 Notes
 Full scripts and notebooks coming soon as projects are finalized.
